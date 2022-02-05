@@ -1,0 +1,19 @@
+.option:hover{
+    background-color: blue;
+    color: white;
+}
+.active{
+    background-color: blue;
+    color: rgb(251, 251, 251);
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: rgb(248, 245, 34);
+}
+body{
+    background-image: url('img/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
